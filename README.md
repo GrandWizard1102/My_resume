@@ -74,7 +74,7 @@ Includes:
 - 🧠 Machine Learning Certificate (Coursera / Workshop)  
 - 🏆 SQL Event Winner  
 - 🌐 Full Stack Development Workshop  
-➡ [Certificates Folder]()
+➡ [Certificates Folder](https://github.com/GrandWizard1102/My_resume/tree/main/Certifications)
 
 ---
 
