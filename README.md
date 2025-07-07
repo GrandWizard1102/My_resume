@@ -7,6 +7,7 @@
 ---
 
 ## 🔍 About Me
+This is sample 
 
 Passionate and motivated AI & Data Science student with hands-on experience in:
 - 💻 Full-stack development (Java, C++, Python, Flask)
